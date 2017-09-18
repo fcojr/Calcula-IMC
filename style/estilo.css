@@ -8,3 +8,7 @@ header{
 form, .btn{
 	margin: 30px;
 }
+footer{
+	text-align: center;
+	font-size: 13px;
+}
